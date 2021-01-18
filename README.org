@@ -1,5 +1,9 @@
 * =Endothelial Index (EI score)=
 
+** Download
+
+
+
 ** Description
 
 =calculate_ei= use the expression of 7 genes (ANGPT2,CDH5,ESAM,ESM1,ERG,ICAM2,TIE1) to predict the Endothelial Index (EI score) as described in [[https://doi.org/10.1172/JCI136655][Kan et al. J Clin Invest. 2020]].
@@ -8,12 +12,10 @@
 
 ** Installation
 
-Clone the repository
+Download the Executables
 
-#+BEGIN_SRC sh
-git clone https://github.com/faryabib/VMS
-
-#+END_SRC
+*Mac OS:* https://github.com/allucas/hello-world/releases/download/v1/dist_mac.zip
+*Linux:* https://github.com/allucas/hello-world/releases/download/v1/dist_linux.zip
 
 Unzip the Mac OS executable
 
