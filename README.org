@@ -15,6 +15,7 @@
 Download the Executables
 
 *Mac OS:* https://github.com/allucas/hello-world/releases/download/v1/dist_mac.zip
+
 *Linux:* https://github.com/allucas/hello-world/releases/download/v1/dist_linux.zip
 
 Unzip the Mac OS executable
